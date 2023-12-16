@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Spitter Community Events
-description: Events for the Space Twitter community. Done right.
+title: kerbal.io Help and Docs
+description: Info about our services.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://spitter.space" # the base hostname & protocol for your site, e.g. http://example.com
-repository: spacetwitter/spacetwitter.github.io # for github-metadata
+url: "https://docs.kerbal.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: kerbalio/kerbalio-docs # for github-metadata
 
 permalink: pretty
 
@@ -112,9 +112,9 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 # External navigation links
 nav_external_links:
   - title: Discord Server
-    url: https://discord.gg/YTdycBXu28
-  - title: Webmap
-    url: https://map.spitter.space
+    url: https://discord.gg/ThCc58vxPy
+  - title: Main Site
+    url: https://kerbal.io
 
 # Footer content
 # appears at the bottom of every page's main content
