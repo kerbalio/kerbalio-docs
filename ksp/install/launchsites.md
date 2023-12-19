@@ -31,7 +31,7 @@ You may colocate with other players, but you must discuss this on your own. [Cla
 | BALLS        | RTA          | TANEGASHIMA    |
 | NIKO         | RUC          | UNCHINOURA     |
 | `PUBLIC`     | UBK          | BAIKONUR       |
-| *Unclaimed*  | UKY          | KASPUTIN YAR   |
+| *Unclaimed*  | UKY          | KASPUSTIN YAR  |
 | NOV          | UPL          | PLESETSK       |
 | ILM          | UVO          | VOSTOCHNY      |
 | *Unclaimed*  | UYS          | YASNY          |
