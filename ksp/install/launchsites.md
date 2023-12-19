@@ -16,9 +16,9 @@ You may colocate with other players, but you must discuss this on your own. [Cla
 |:-------------|:-------------|:---------------|
 | MAPLE        | CCH          | CHURCHILL      |
 | *Unclaimed*  | DHA          | HAMMAGUIR      |
-| `**NATO**`   | ESA          | ESRANGE        |
-| `**PUBLIC**` | KBC          | BOCA CHICA     |
-| `**PUBLIC**` | KCC          | CAPE CANAVERAL |
+| `NATO`       | ESA          | ESRANGE        |
+| `PUBLIC`     | KBC          | BOCA CHICA     |
+| `PUBLIC`     | KCC          | CAPE CANAVERAL |
 | POMNI        | KVA          | VANDENBERG     |
 | PENG         | KWL          | WALLOPS        |
 | CBLT         | KOD          | KODIAK         |
@@ -30,7 +30,7 @@ You may colocate with other players, but you must discuss this on your own. [Cla
 | KAZO         | RNA          | NARO           |
 | BALLS        | RTA          | TANEGASHIMA    |
 | NIKO         | RUC          | UNCHINOURA     |
-| `**PUBLIC**` | UBK          | BAIKONUR       |
+| `PUBLIC`     | UBK          | BAIKONUR       |
 | *Unclaimed*  | UKY          | KASPUTIN YAR   |
 | NOV          | UPL          | PLESETSK       |
 | ILM          | UVO          | VOSTOCHNY      |
