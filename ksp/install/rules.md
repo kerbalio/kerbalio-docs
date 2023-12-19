@@ -34,7 +34,7 @@ parent: Server Info
 
 
 
-### Make sure have your callsign prepended to your ship name, or to have it visible. To look up people's callsigns in order to communicate with them eg. over Discord, search for them in [this webpage](/ksp/players). 
+### Make sure have your callsign prepended to your ship name, or to have it visible. To look up people's callsigns in order to communicate with them eg. over Discord, search for them in [this webpage](/ksp/callsigns). 
 
 If you haven't set your callsign, visit the [planning google doc](https://docs.google.com/document/d/1Z9coyesKrgOY5VkEyCePyJ91N17FwGxqwbbdgjpVwxw/edit#heading=h.fknrhqzh8oki) and enter it in there.
 
