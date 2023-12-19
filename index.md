@@ -15,6 +15,7 @@ This year - for the third time, the seasonal Kerbal Space Program LMP server is 
 
 [Learn how to install the mods!](/ksp){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Join the Kerbal Community Discord](https://discord.gg/9hgSkqSVQD){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 Connection IP: server.kerbal.io - LMP 0.29.0.574, KSP 1.12.5, [Mods required](/ksp/modlist)
 
 ---
