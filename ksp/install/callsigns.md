@@ -7,7 +7,9 @@ permalink: /ksp/callsigns/
 parent: Server Info
 ---
 
-| DISCORD USERNAME      | LMP NICKNAME   | CALLSIGN | COMPANY NAME                            |
+[Add your callsign to this list!](https://docs.google.com/document/d/1Z9coyesKrgOY5VkEyCePyJ91N17FwGxqwbbdgjpVwxw/edit#heading=h.fknrhqzh8oki) You must have a callsign to play on the server.
+
+| DISCORD USERNAME      | LMP NAME       | CALLSIGN | COMPANY NAME                            |
 |:----------------------|:---------------|:---------|:----------------------------------------|
 | @emlynlj              | Emlyn          | CBLT     | COBALT INDUSTRIES                       |
 | @ognovuh              | Novuh          | NOV      | McDonnell Douglas                       |
@@ -31,6 +33,7 @@ parent: Server Info
 | @evannikolai          | Evan           | CYMRU    | Imperium Cymru Aerospace Defence Forces |
 | @itskazu0             | Kazuo          | KAZO     | KAI (Korea Aerospace Industries, ltd)   |
 | @G1GAVoltz            | GIGA           | ILM      | Aurora Aerospace                        |
+| @Join the server      | NOW!           |          |                                         |
 
 
 
