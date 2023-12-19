@@ -14,9 +14,9 @@ parent: Server Info
 | @corruptedskykiller52 | Corrupted      | COR      | LENIX AEROSPACE                         |
 | @cosmo555             | Cosmo          | COSMO    | JCJenson In SPAAAAAAAAAACE              |
 | @sleepymackenzie      | Balls8         | BALLS    | Rockwell International                  |
-| @.kochi               | Kochi          | KOCHI    | Lochkeed martin                         |
+| @.kochi               | Kochi          | KOCHI    | Lockheed Martin                         |
 | @.justdark            | Kate(Dark)     | KDARK    | FASA (Furry NASA)                       |
-| @HenriJæ              | HenriJæ        | NIKO     | Hakkyrion Exploration Systems           |
+| @HenriJayy            | HenriJæ        | NIKO     | Hakkyrion Exploration Systems           |
 | @barleybun            | Barley         | POMNI    | Aperture Science                        |
 | @beanhowitzer         | Bean           | BEAN     | Deep Space Bombardment Force            |
 | @arkayusmako_3181     | Duke           | ERUT     | Eridani-Utopia Superstructure           |
