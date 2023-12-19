@@ -7,6 +7,10 @@ permalink: /ksp/launchsites/
 parent: Server Info
 ---
 
+Image for reference.
+![EarthSurfaceLargeText](https://github.com/kerbalio/kerbalio-docs/assets/71500044/3a9baae0-a3bd-4ca1-baf8-1dc9dbdcc975)
+
+
 | CALLSIGN     | SPACEPORT ID | SPACEPORT NAME |
 |:-------------|:-------------|:---------------|
 | MAPLE        | CCH          | CHURCHILL      |
