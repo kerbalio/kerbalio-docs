@@ -11,6 +11,8 @@ parent: Server Info
 
 # If you have any problems, please [join the Kerbal Community Discord.](https://discord.gg/9hgSkqSVQD)
 
+**IMPORTANT: Please replace the Kopernicus folder within the modpack with [this](https://github.com/ballisticfox/Kopernicus/releases) correct one. **
+
 Download and unzip [this folder](https://drive.google.com/file/d/1Bept8CVf-JyL03u7kUE9hSZ_0sTrOntg/view?usp=share_link) into your GameData folder....
 
 And also download and copy the [KSRSS textures](https://github.com/ballisticfox/KSP-64k/releases) into your GameData folder as well.
